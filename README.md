@@ -1,2 +1,2 @@
 # SmileSchool
-A Repository for Smile School (Project)
+A Repository for The Smile School Website Prototype
