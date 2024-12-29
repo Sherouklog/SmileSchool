@@ -1,7 +1,3 @@
-# SmileSchool
-A Repository for The Smile School Website Prototype
-
-
 # Smile School - Landing Page
 
 This is the official landing page for **Smile School**, a platform dedicated to teaching people the art of smiling. This landing page serves as the first point of contact for potential users and provides essential information about courses, instructors, membership benefits, and more.
