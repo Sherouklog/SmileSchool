@@ -23,7 +23,7 @@ This is the official landing page for **Smile School**, a platform dedicated to 
 To view the landing page locally:
 
 1. **Clone or download** the project repository to your local machine Using 
-```git clone
+```git clone https://github.com/Sherouklog/SmileSchool```
 2. Open the `index.html` file in your browser.
 
 Alternatively, you can deploy this page to any web server or hosting service.
